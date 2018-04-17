@@ -1,0 +1,8 @@
+Flask==0.12.2
+google-api-python-client
+requests
+google-auth 
+google-auth-oauthlib 
+google-auth-httplib2
+pymongo
+flask-cors
